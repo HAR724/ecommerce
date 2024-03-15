@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "id": "298f",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "rating": 2.9,
+      "quan": 1,
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "total": 109
+    },
+    {
+      "id": "8aa9",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "rating": 3.9,
+      "quan": 1,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "total": 109.95
+    }
+  ],
+  "address": [
+    {
+      "id": "cdfe",
+      "fname": "hsnjjjx",
+      "lname": "cdcfev",
+      "email": "harshbarsaiyan123@gmail.com",
+      "phn": "08226050101",
+      "country": "india",
+      "city": "noida",
+      "stadd": "azad chowk noida ",
+      "area": "sector 45",
+      "code": "2345"
+    },
+    {
+      "id": "44f6",
+      "fname": "harshsahu7926@gmail.com",
+      "lname": "harshsahu7926@gmail.com",
+      "email": "harshsahu7926@gmail.com",
+      "phn": "08226050101",
+      "country": "india",
+      "city": "katni",
+      "stadd": "jsnjnejd",
+      "area": "jwdncdc",
+      "code": "23343"
+    },
+    {
+      "id": "640b",
+      "fname": "feenw ",
+      "lname": "wd c dc",
+      "email": "yash@gmail.comed",
+      "phn": "01234567890",
+      "country": "ewded",
+      "city": "e",
+      "stadd": "edwcw",
+      "area": "wdcrwd",
+      "code": "3434"
+    }
+  ],
+  "myorder": [
+    {
+      "id": "e9cc",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "price": 599,
+      "quan": 1,
+      "date": 9,
+      "month": 2,
+      "year": 2024
+    },
+    {
+      "id": "b7e4",
+      "title": "Solid Gold Petite Micropave ",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "price": 168,
+      "quan": 1,
+      "date": 9,
+      "month": 2,
+      "year": 2024
+    },
+    {
+      "id": "f795",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "price": 64,
+      "quan": 1,
+      "date": 9,
+      "month": 2,
+      "year": 2024
+    },
+    {
+      "id": "c183",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "price": 109,
+      "quan": 1,
+      "date": 9,
+      "month": 2,
+      "year": 2024,
+      "rating": 2.9
+    },
+    {
+      "id": "4190",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "price": 109,
+      "quan": 1,
+      "date": 9,
+      "month": 2,
+      "year": 2024,
+      "rating": 2.9
+    },
+    {
+      "id": "1518",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "price": 109,
+      "quan": 1,
+      "date": 15,
+      "month": 2,
+      "year": 2024,
+      "rating": 2.9
+    },
+    {
+      "id": "dc2c",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "price": 109.95,
+      "quan": 1,
+      "date": 15,
+      "month": 2,
+      "year": 2024,
+      "rating": 3.9
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+.maindiv{
+    width: 100%;
+    height: 584px;
+   
+}
+.div1{
+    height: 100%;
+    width: 20%;
+   background: rgba(232, 223, 223, 0.6);
+}
+.div2{
+    height: 100%;
+    width: 80%;
+    
+  position: relative;
+  left: 20%;
+  top: -580px;
+  overflow: scroll;
+  background-color: rgb(214, 191, 210);
+   
+}
+.cardwidth{
+  width:32%;
+  height: 350px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 10px;
+  overflow: scroll;
+ 
+
+}
+.imgdiv{
+ text-align: center;
+ height: 100px;
+ width: 50px;
+}
+.imgdiv2{
+  height: 100px;
+  width: 100%;
+}
+.addcart{
+  position: relative;
+  left: 180px;
+  top: -70px;
+}
+.des{
+  margin-top: -85px;
+}
+.category{
+  height: 50px;
+  width: 190px;
+  position: relative;
+  top: 20px;
+  margin-left: 60px;
+
+}
+.uldiv1{
+  list-style: none;
+
+}
+.div11{
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 15px;
+}
+.btndiv{
+  width: 200px;
+  height: 50px;
+  background-color:  rgb(214, 191, 210);
+  border: none;
+}
+.lidiv{
+  margin-top: 20px;
+}
+.inputfrm{
+  position: relative;
+  top: -60px;
+  width: 20%;
+  margin-left: 200px;
+
+}
+.btnplus{
+  position: relative;
+  top: -22px;
+  margin-left: 50px;
+}
+.btnmin{
+  position: relative;
+  top: -98px;
+  margin-left: 273px;
+}

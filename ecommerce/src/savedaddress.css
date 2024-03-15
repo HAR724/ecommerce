@@ -1,0 +1,38 @@
+.mainsavedadd{
+    background-color: rgb(214, 191, 210);
+    height: 590px;
+    box-sizing: border-box;
+    padding-bottom: 50px;
+    overflow: auto;
+}
+.savedadddiv{
+    height:auto;
+    width: 55%;
+    background-color:rgb(189, 162, 162);
+    position: relative;
+    top: 20px;
+    margin-left: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(130, 108, 108) ;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+}
+.btnnext{
+    margin-left: 48.5%;
+    margin-top: 20px;
+}
+.icondiv{
+    margin-left: 48%;
+    margin-top: 50px;
+    
+}
+.btncancel{
+    border: none;
+   margin-left: 95%;
+margin-top: -400px;
+   font-size: 25px;
+}
+
+.btnadd{
+    font-size: 45px;
+}

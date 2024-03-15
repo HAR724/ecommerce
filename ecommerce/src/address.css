@@ -1,0 +1,73 @@
+.divadd{
+    height:570px;
+    width: 55%;
+    background-color:rgb(189, 162, 162);
+    position: relative;
+    top: 20px;
+    margin-left: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(130, 108, 108) ;
+}
+.billdet{
+    margin-left: 20px;
+    position: relative;
+    top: 20px;
+}
+.namediv{
+    width: 350px;
+    margin-top: 40px;
+    margin-left: 30px ;
+}
+.lastdiv{
+    width: 350px;
+    margin-left: 430px ;
+    margin-top: -70px;
+}
+.emaildiv{
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 30px ;
+}
+.phndiv{
+    width: 350px;
+    margin-left: 430px ;
+    margin-top: -70px;
+}
+.countrydiv{
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 30px ;
+}
+.citydiv{
+    width: 350px;
+    margin-left: 430px ;
+    margin-top: -70px;
+}
+.adddiv{
+    width: 750px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.areadiv{
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 30px ; 
+}
+.postaldiv{
+    width: 350px;
+    margin-left: 430px ;
+    margin-top: -70px;
+}
+.mainadddiv{
+    background-color: rgb(214, 191, 210);
+    height: auto;
+    box-sizing: border-box;
+    padding-bottom: 50px;
+}
+.btnsave{
+    width: 100px;
+}
+.btnsavediv{
+    margin-left: 360px;
+    margin-top: 30px;
+}

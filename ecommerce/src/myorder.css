@@ -1,0 +1,53 @@
+.maindivmy{
+    height: 590px;
+    width: 100%;
+    background-color: rgb(214, 191, 210);
+    overflow: auto;
+}
+.centerdivmy{
+    height: auto;
+    width: 60%;
+    background-color:rgb(189, 162, 162);
+    margin-left: 20%;
+    margin-top: 20px;
+    box-shadow: 8px 8px 10px rgb(130, 108, 108) ;
+    border-radius: 10px;
+
+}
+.imagediv{
+ 
+}
+.titlediv{
+    width: 450px;
+    
+}
+.carddiv{
+    height: 150px;
+}
+.carddivv{
+    height: 150px;
+}
+.ratingdiv{
+    height: auto;
+  width: 100px;
+ 
+ margin-left: 200px;
+}
+.qunadiv{
+    margin-left: 620px;
+    margin-top: -80px;
+}
+.realquan{
+    margin-left: 30px;
+}
+.pricediv{
+    margin-left: 750px;
+    margin-top: -63px;
+}
+.realprice{
+    margin-left: 8px;
+}
+.btncancels{
+    margin-left: 650px;
+    margin-top: -10px;
+}

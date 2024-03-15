@@ -1,0 +1,60 @@
+.bag{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.tbl{
+   
+}
+.dataslen{
+    margin-left:370px;
+    margin-top: -45px;
+}
+.lendata{
+    margin-left: 400px;
+    margin-top: -56px;
+}
+.productdiv{
+    width: 60%;
+   height: 120px;
+   
+}
+.btncan{
+    border: none;
+    background-color: white;
+    
+}
+.paraname{
+    margin-left: 170px;
+    margin-top: -80px;
+    
+}
+.parado{
+    text-align: center;
+    margin-top: -10px;
+}
+.tablediv{
+    width: 90%;
+    margin-left: 40px;
+}
+.subtotaldiv{
+    text-align: center;
+    font-size: 35px;
+}
+.subtotaldivv{
+    margin-left: 200px;
+    font-size: 35px;
+}
+.btncheck{
+    height: 50px;
+    width: 200px;
+    margin-left: 600px;
+    margin-top: 40px;
+}
+.tbody{
+    height: 100px;
+}
+.ydiv{
+    width: 300px;
+    margin-left: 550px;
+
+}

@@ -1,0 +1,25 @@
+.maindivorder{
+    height: 590px;
+    width: 100%;
+    background-color: rgb(214, 191, 210);
+}
+.imgdone{
+    margin-left: 560px;
+    position: relative;
+    top: 20px;
+}
+.thankudiv{
+    margin-left: 610px;
+    margin-top: 20px;
+}
+.btncon{
+    margin-left: 50px;
+    width: 180px;
+}
+.divbtn{
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.btnview{
+    width: 180px;
+}
